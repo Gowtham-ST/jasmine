@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="142" started-at="2023-08-09T05:28:10Z" finished-at="2023-08-09T05:28:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="142" started-at="2023-08-09T05:28:10Z" finished-at="2023-08-09T05:28:11Z">
+      <class name="org.navy.Merchant$LoginTestingClass">
+        <test-method status="PASS" signature="tc()[pri:-1, instance:org.navy.Merchant$LoginTestingClass@6e06451e]" name="tc" duration-ms="29" started-at="2023-08-09T10:58:10Z" finished-at="2023-08-09T10:58:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+        <test-method status="PASS" signature="tc02()[pri:0, instance:org.navy.Merchant$LoginTestingClass@6e06451e]" name="tc02" duration-ms="12" started-at="2023-08-09T10:58:11Z" finished-at="2023-08-09T10:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+      </class> <!-- org.navy.Merchant$LoginTestingClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
